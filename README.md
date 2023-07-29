@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PiotrekBezRaczek
 - 👀 I’m interested in JavaScript 
-- 🌱 I’m currently learning PHP 
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me PiotrekBezRaczek
 
